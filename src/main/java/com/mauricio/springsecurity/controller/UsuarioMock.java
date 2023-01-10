@@ -11,6 +11,7 @@ public final class UsuarioMock {
 	
 
 	private UsuarioMock() {
+		
 	}
 
 	public static List<Usuario> getListUsuario() {
